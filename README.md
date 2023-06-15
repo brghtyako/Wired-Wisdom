@@ -18,4 +18,3 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=brghtyako&icon=0&color=0)](https://visitcount.itsvg.in)
