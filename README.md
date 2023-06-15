@@ -1,5 +1,5 @@
-# Wired-Wisdom
-This is my personal blog about tech and electronics.
+# ⚡ Wired-Wisdom
+Blog and blog post example by Brghtyako.
 
 # 💫 About Me:
 I am Front-End Developer who is interested in tech and electronics
